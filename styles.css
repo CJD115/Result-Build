@@ -10,3 +10,19 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 15px;
   }
+
+  .reaction {
+    color: red;
+  }
+
+  .memory {
+    color: yellow;
+  }
+
+  .verbal {
+    color: green;
+  }
+
+  .visual {
+    color: blue;
+  }
