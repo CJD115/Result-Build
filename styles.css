@@ -30,3 +30,25 @@
   .summary {
     text-align: left;
   }
+
+  .score {
+    font-size: 60px;
+    color: #ffffff;
+  }
+
+  .out-off {
+    font-size: 20px;
+  }
+
+  body {
+    text-align: center;
+    
+  }
+
+  .column {
+    background: linear-gradient(to bottom,  #1e5799 0%,#207cca 0%,#d72cea 0%,#7034d8 100%,#2989d8 100%);
+    border: 1px solid black; 
+    padding: 10px; 
+    border-radius: 10px;
+;
+  }
